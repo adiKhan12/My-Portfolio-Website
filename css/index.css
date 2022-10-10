@@ -210,6 +210,8 @@ a:hover{
     border-radius: 25px;
 }
 
+
+
 @media (min-width: 550px){
     #projects article{
         display: grid;
